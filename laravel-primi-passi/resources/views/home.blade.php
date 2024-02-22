@@ -11,6 +11,13 @@
         <h1>
             Laraval Primi Passi
         </h1>
+        <div>
+            <button>
+                <a href="nextpage">
+                    Go to the next page
+                </a>
+            </button>
+        </div>
     </main>
 
 </body>
