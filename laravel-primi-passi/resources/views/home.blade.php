@@ -9,7 +9,7 @@
     
     <main>
         <h1>
-            Laraval Primi Passi
+            My first Laravel Project 
         </h1>
         <div>
             <button>
