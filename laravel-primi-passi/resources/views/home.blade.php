@@ -13,7 +13,7 @@
         </h1>
         <div>
             <button>
-                <a href="nextpage">
+                <a href="{{ route('about-us') }}">
                     Go to the next page
                 </a>
             </button>
